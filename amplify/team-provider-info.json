@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-livelinessapp-dev-121451-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381492242250:role/amplify-livelinessapp-dev-121451-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381492242250:role/amplify-livelinessapp-dev-121451-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-livelinessapp-dev-121451-deployment",
+      "UnauthRoleName": "amplify-livelinessapp-dev-121451-unauthRole",
+      "StackName": "amplify-livelinessapp-dev-121451",
+      "StackId": "arn:aws:cloudformation:us-east-1:381492242250:stack/amplify-livelinessapp-dev-121451/335f4940-d875-11ee-9a2d-0e595b312e39",
+      "AmplifyAppId": "d3fy7dki1zh84p"
+    },
+    "categories": {
+      "auth": {
+        "livelinessapp776521a6776521a6": {}
+      }
+    }
+  }
+}
